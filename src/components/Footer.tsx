@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
 
         <p className="text-xs text-gray-400">
-          © 2024 LIXILENS INTELLECTUAL SANCTUARY
+          © 2026 LIXILENS INTELLECTUAL SANCTUARY
         </p>
       </div>
     </footer>
